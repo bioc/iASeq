@@ -1,0 +1,19 @@
+importFrom(graphics, abline, axis, layout, mtext, par, plot, rect,
+          segments, text)
+importFrom(grDevices, gray)
+export(ASErawfit,
+       iASeqmotif,   
+       singleEMfit,                     
+       plotBIC,               
+       plotMotif)
+
+
+
+
+
+              
+              
+              
+
+              
+              

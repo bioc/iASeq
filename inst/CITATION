@@ -1,0 +1,9 @@
+citEntry(entry="TechReport",
+	author="Yingying Wei, Xia Li, Qianfei Wang, Hongkai Ji",
+	title="Yingying Wei, Xia Li, Qianfei Wang, Hongkai Ji",
+	institution="Johns Hopkins University, Department of Biostatistics",
+  	year="2012",
+	type="Technical report",
+	textVersion=paste("iASeq: integrating multiple ChIP-seq datasets for detecting allele-specific binding.", "Wei YY, Li X, Wang QF, Ji HK", "2012, Technical Report,
+	Johns Hopkins University, Department of Biostatistics")
+)
