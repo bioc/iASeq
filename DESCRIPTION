@@ -2,7 +2,7 @@ Package: iASeq
 Type: Package
 Title: iASeq: integrating multiple sequencing datasets for detecting
         allele-specific events
-Version: 1.2.0
+Version: 1.3.0
 Date: 2012-02-13
 Author: Yingying Wei, Hongkai Ji
 Maintainer: Yingying Wei <ywei@jhsph.edu>
