@@ -2,14 +2,16 @@ Package: iASeq
 Type: Package
 Title: iASeq: integrating multiple sequencing datasets for detecting
         allele-specific events
-Version: 1.7.1
+Version: 1.7.2
 Date: 2012-02-13
 Author: Yingying Wei, Hongkai Ji
 Maintainer: Yingying Wei <ywei@jhsph.edu>
-Description: It fits correlation motif model to multiple RNAseq or ChIPseq studies to improve detection of allele-specific events and describe correlation patterns across studies.
+Description: It fits correlation motif model to multiple RNAseq or
+        ChIPseq studies to improve detection of allele-specific events
+        and describe correlation patterns across studies.
 Depends: R (>= 2.14.1)
 Imports: graphics, grDevices
 License: GPL-2
 LazyLoad: yes
-biocViews: SNP, RNAseq, ChIPseq, Bioinformatics
 Packaged: 2012-03-14 15:04:17 UTC; ywei
+biocViews: SNP, RNASeq, ChIPSeq
